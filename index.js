@@ -26,5 +26,3 @@ const tasks = [task1, task2];
 task1.logState(); // Clean Cat Litter has not been completed
 task1.markCompleted();
 task1.logState(); // Clean Cat Litter has been completed
-
-console.log(tasks);
